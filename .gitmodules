@@ -1,0 +1,9 @@
+[submodule "lib/image"]
+	path = lib/image
+	url = git@github.com:cul/fedora-python-image.git
+[submodule "lib/json"]
+	path = lib/json
+	url = git@github.com:cul/fedora-python-json.git
+[submodule "lib/soap"]
+	path = lib/soap
+	url = git@github.com:cul/fedora-python-soap.git
